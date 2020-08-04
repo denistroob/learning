@@ -1,3 +1,3 @@
 # learning
 
-Code samples and examples from lessons and tutorials
+Code snippets and examples from lessons and tutorials
